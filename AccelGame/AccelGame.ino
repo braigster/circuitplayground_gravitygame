@@ -19,6 +19,7 @@ void setup() {
 
   wasInSetup = false;
   currentLevel=STARTLVL;
+  
 }
 
 void loop() {
